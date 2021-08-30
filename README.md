@@ -2,9 +2,14 @@
 
 ## Estudiante: Gonzalo Santa Cruz
 
+![](gonza.jpg)
+
 ### Sobre mí:
 
-Empecé a estudiar Tecnicatura en programación informática en el 2017, pero por diversos motivos abandoné y retomé en el segundo cuatrimestre del 2019 con energías renovadas y vengo disfrutando mucho el camino de aprendizaje de la carrera en la universidad y en lo laboral. Actualmente estoy trabajando como desarrollador web con variadas tecnologías orientadas a servidor o frontend.
+- Tengo 29 años
+- Me gusta sacarle fotos a mi gata Tijuana
+- Me apasiona la tecnología y los videojuegos, en general, de los géneros shooters o RPG.
+- Empecé a estudiar Tecnicatura en programación informática en el 2017, pero por diversos motivos abandoné y retomé en el segundo cuatrimestre del 2019 con energías renovadas y vengo disfrutando mucho el camino de aprendizaje de la carrera en la universidad y en lo laboral. Actualmente estoy trabajando como desarrollador web con variadas tecnologías orientadas a servidor o frontend.
 
 #
 
