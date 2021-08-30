@@ -1,6 +1,10 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Gonzalo Santa Cruz
+
+### Sobre mí:
+
+Empecé a estudiar Tecnicatura en programación informática en el 2017, pero por diversos motivos abandoné y retomé en el segundo cuatrimestre del 2019 con energías renovadas y vengo disfrutando mucho el camino de aprendizaje de la carrera en la universidad y en lo laboral. Actualmente estoy trabajando como desarrollador web con variadas tecnologías orientadas a servidor o frontend.
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
